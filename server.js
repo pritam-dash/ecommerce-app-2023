@@ -9,10 +9,6 @@ import productRoutes from './routes/productRoutes.js';
 import cors from 'cors';
 import path from 'path';
 import {fileURLToPath} from 'url';
-<<<<<<< HEAD
-
-=======
->>>>>>> 7f44614e9ddd44cb32d7224d6d88038c207ab0fe
 
 //configure env
 dotenv.config();
